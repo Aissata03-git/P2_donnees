@@ -1,0 +1,11 @@
+Appenv
+venv
+.venv
+main.py
+=12.0.0
+Data
+data
+*.csv
+Data/
+data/
+myenv/
